@@ -1,6 +1,6 @@
 # mbeddr
 
-:wave: Welcome to the `mbeddr` github organization.
+:wave: Welcome to the `mbeddr` GitHub organization.
 
 > mbeddr aims at creating a different way of developing embedded software systems.
 > Instead of using archaic modeling tools and manually written C code, we use the open source [JetBrains MPS language workbench](https://www.jetbrains.com/mps) to create an integrated approach to embedded development, where C programming, DSLs, domain specific extensions to C, product line variability, requirements traceability and model checking are supported directly.
